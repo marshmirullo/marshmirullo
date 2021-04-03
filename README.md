@@ -8,7 +8,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshmirullo&theme=tokyonight&show_icons=true&locale=en" alt="marshmirullo" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshmirullo&show_icons=true&locale=en&layout=compact" alt="marshmirullo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshmirullo&show_icons=true&locale=en&layout=compact" alt="marshmirullo" /></p>
 
 <h3 align="left">Connect with me: 🍃 </h3>
 <p align="left">
