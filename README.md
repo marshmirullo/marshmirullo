@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hakim </h1>
 
 - :thinking: **Student of BIT in Multimedia at Universiti Malaya**
-- :footprints: **Currently learning , godpseed**
+- :footprints: **Currently learning , godspeed**
 - :eyes: **Expertise in Adobe Ps adn Ai**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
