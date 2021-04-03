@@ -8,6 +8,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshmirullo&theme=tokyonight&show_icons=true&locale=en" alt="marshmirullo" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshmirullo&show_icons=true&locale=en&layout=compact" alt="marshmirullo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshmirullo&show_icons=true&locale=en" alt="marshmirullo" /></p>
+
 <h3 align="left">Connect with me: 🍃 </h3>
 <p align="left">
 <a href="https://twitter.com/marshmirullo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marshmirullo" height="30" width="40" /></a>
