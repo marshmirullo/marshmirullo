@@ -2,7 +2,7 @@
 
 - :thinking: **Student of BIT in Multimedia at Universiti Malaya**
 - :footprints: **Currently learning , godspeed**
-- :eyes: **Expertise in Adobe Ps adn Ai**
+- :eyes: **Advanced in Adobe Ps and Ai**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
